@@ -1,0 +1,21 @@
+{
+  "name": "macaron",
+  "displayName": "Macaron",
+  "description": "A dark vscode theme with pink accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Macaron Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Macaron Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
